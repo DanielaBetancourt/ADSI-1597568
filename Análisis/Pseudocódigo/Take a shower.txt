@@ -1,0 +1,25 @@
+1- I enter the bathroom.
+2- I close the door.
+3- I turn on the light.
+4- I take off all my clothes.
+5- I enter the shower.
+6- I open the key.
+7- I get wet.
+8- I made soap.
+9- I become.
+10- I play.
+11- I close the key.
+12- I get out of the shower.
+13- I put the towel.
+14- I dry myself.
+15- I dress up.
+16- I put on my socks and shoes.
+17- I brush my hair.
+18- I put on make up.
+19- I go to the bathroom.
+20- I brush.
+21- I come out of the bathroom.
+22- I put on my bag.
+23- I walk towards the door.
+24- I open the door.
+25- I'm going.

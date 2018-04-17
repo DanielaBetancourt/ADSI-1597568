@@ -1,0 +1,17 @@
+1- Me levanto de la silla del comedor
+2- Camino hacia la cocina
+3- Giro hacia la izquierda
+4- Me acerco al lavaplatos
+5- Me lavo las manos
+6- Enciendo la estufa
+7- Pongo el sartén con aceite
+8- Espero a que se caliente
+9- Golpeo y hecho el huevo
+10- Lo revuelvo con sal
+11- Lo tapo y espero a que este
+12- Cojo un plato y una cuchara
+13- Hecho el huevo y el arroz
+14- Giro hacia la derecha y me devuelvo al comedor
+15- Me siento
+16- Como
+17- Sigo viendo TV

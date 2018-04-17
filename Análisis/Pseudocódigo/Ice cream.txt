@@ -1,0 +1,14 @@
+1- I leave the platform. 
+2- Turn to the right.
+3- Right path 10 steps.
+4- Turn to the right.
+5- Way to the ice cream shop.
+6- I greet the lady.
+7- I ask for the ice cream.
+8- I pay for the ice cream.
+9- I walk to my house.
+10- Turn to the left.
+11- Right path 10 steps.
+12- I turn to the left.
+13- I walk to my house.
+14- I eat the ice cream.

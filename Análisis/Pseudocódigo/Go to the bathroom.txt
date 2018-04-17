@@ -1,0 +1,20 @@
+1- Me despierto.
+2- Me levanto de la cama.
+2- Me pongo los zapatos.
+4- Camino hacia el baño.
+5- Doy un giro hacia la derecha.
+6- Entro al baño.
+7- Prendo la luz.
+8- Hago mi necesidad.
+9- Me levanto y me limpio.
+10- Vaciar el baño.
+11- Apago la luz.
+12- Giro hacia la izquierda.
+13- Me devuelvo hacia la cama.
+14- Me quito los zapatos.
+15- Me acuesto
+16- Giro hacia la izquierda.
+17- Me devuelvo hacia la cama.
+18- Me quito los zapatos.
+19- Me acuesto
+20- Me duermo. 

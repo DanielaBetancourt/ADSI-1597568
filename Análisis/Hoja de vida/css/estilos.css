@@ -1,0 +1,37 @@
+body{
+	background: #D7CAF7;
+	font-size: 17px;
+	font-family: 'Cuprum', sans-serif;	text-align: center;
+
+}
+ 
+ fieldset{
+ 	color: black;
+ 	background: #FEEEFD;
+ 	border-color: black;
+
+
+ }
+	
+}
+.daniela
+{
+	
+	position: relative;
+	left: 500px;
+}
+ul li{
+	list-style: none;
+}
+
+strong{
+	font-family: 'Righteous', cursive;
+
+}
+
+@media (max-width: 767.98px) {
+	body {
+		display: flex;
+		flex-direction: column;
+	}
+
